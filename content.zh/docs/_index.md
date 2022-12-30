@@ -1,0 +1,3 @@
+---
+BookCollapseSection: true
+---
